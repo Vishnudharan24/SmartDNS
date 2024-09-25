@@ -1,0 +1,7 @@
+1.Here the "eval.py" script is the main script with which we can classify domains, It uses the trained model to do so by getting the domain as user input.
+
+2.The "train.py" is the script used to train the ml model. The "dns_filter_model.h5" and "label_encoder.pkl" are the model files. The feature extraction of the dataset is integrated with training the model.
+
+3.The "features.docx" word document contains the details of the features extracted from an dataset to train the  ML model.
+
+4.The dataset that the model was trained on is not included.
